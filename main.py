@@ -4,3 +4,4 @@
 # @file: project/modul
 
 print("我在第一次做测试，测试jenkins的使用")
+print("我在第二次做测试，测试jenkins的使用")
